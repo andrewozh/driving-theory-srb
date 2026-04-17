@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="sr" data-bs-theme="light">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+		<meta name="theme-color" content="#3b82f6" />
+		<meta name="description" content="Вежбање за возачки испит — сва питања са решењима" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+		<link rel="manifest" href="/manifest.json" />
+		<link rel="icon" type="image/png" sizes="192x192" href="/icon-192.png" />
+		<link rel="apple-touch-icon" href="/icon-192.png" />
+		<link href="/driving-theory-srb/_app/immutable/entry/start.Cw4sePQ0.js" rel="modulepreload">
+		<link href="/driving-theory-srb/_app/immutable/chunks/ShSl8iUk.js" rel="modulepreload">
+		<link href="/driving-theory-srb/_app/immutable/chunks/cgyQgKRe.js" rel="modulepreload">
+		<link href="/driving-theory-srb/_app/immutable/entry/app.B4Krqerw.js" rel="modulepreload">
+		<link href="/driving-theory-srb/_app/immutable/chunks/Di6zslmw.js" rel="modulepreload">
+		<link href="/driving-theory-srb/_app/immutable/chunks/CsaauQz1.js" rel="modulepreload">
+		
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">
+			<script>
+				{
+					__sveltekit_1mk4vzt = {
+						base: "/driving-theory-srb",
+						assets: "/driving-theory-srb"
+					};
+
+					const element = document.currentScript.parentElement;
+
+					Promise.all([
+						import("/driving-theory-srb/_app/immutable/entry/start.Cw4sePQ0.js"),
+						import("/driving-theory-srb/_app/immutable/entry/app.B4Krqerw.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element);
+					});
+
+					if ('serviceWorker' in navigator) {
+						const script_url = '/driving-theory-srb/service-worker.js';
+						const policy = globalThis?.window?.trustedTypes?.createPolicy(
+							'sveltekit-trusted-url',
+							{ createScriptURL(url) { return url; } }
+						);
+						const sanitised = policy?.createScriptURL(script_url) ?? script_url;
+						addEventListener('load', function () {
+							navigator.serviceWorker.register(sanitised);
+						});
+					}
+				}
+			</script>
+		</div>
+	</body>
+</html>
