@@ -1,1 +1,0 @@
-var e=``,t=[];function n(n){e=n;for(let e of t)e()}function r(){return e}function i(e){return t.push(e),()=>{t=t.filter(t=>t!==e)}}export{i as n,n as r,r as t};
