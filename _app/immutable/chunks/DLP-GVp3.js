@@ -1,1 +1,0 @@
-import"./CgRUJ60x.js";import{r as e}from"./Cg6c1YLo.js";var t=()=>{let t=e;return{page:{subscribe:t.page.subscribe},navigating:{subscribe:t.navigating.subscribe},updated:t.updated}},n={subscribe(e){return t().page.subscribe(e)}};export{n as t};
