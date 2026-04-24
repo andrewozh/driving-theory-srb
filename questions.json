@@ -6465,7 +6465,6 @@
         "B"
       ],
       "section": "vozaci",
-      "is_removed": true,
       "correct_answers": [
         "а"
       ],
@@ -7038,7 +7037,6 @@
       "correct_answers_count": 1,
       "has_image": false,
       "section": "vozaci",
-      "is_removed": true,
       "correct_answers": [
         "а",
         "б"
@@ -7095,7 +7093,8 @@
       "has_image": false,
       "section": "vozaci",
       "correct_answers": [],
-      "text_ru": "Водительское удостоверение на управление транспортным средством категории A может получить лицо и до достижения 24 лет, если оно имеет водительское удостоверение на управление транспортным средством категории A2:"
+      "text_ru": "Водительское удостоверение на управление транспортным средством категории A может получить лицо и до достижения 24 лет, если оно имеет водительское удостоверение на управление транспортным средством категории A2:",
+      "is_removed": true
     },
     {
       "id": 33,
@@ -7220,7 +7219,6 @@
       "correct_answers_count": 3,
       "has_image": false,
       "section": "vozaci",
-      "is_removed": true,
       "correct_answers": [
         "а",
         "б",
@@ -13394,7 +13392,6 @@
       "correct_answers_count": 1,
       "has_image": false,
       "section": "vozila",
-      "is_removed": true,
       "correct_answers": [
         "б"
       ],
@@ -20404,7 +20401,6 @@
         "F"
       ],
       "section": "vozila",
-      "is_removed": true,
       "correct_answers": [
         "в"
       ],
@@ -25897,7 +25893,6 @@
       "correct_answers_count": 1,
       "has_image": false,
       "section": "saobracajna_signalizacija",
-      "is_removed": true,
       "correct_answers": [
         "в"
       ],
@@ -59639,7 +59634,6 @@
       "correct_answers_count": 1,
       "has_image": false,
       "section": "pravila_saobracaja",
-      "is_removed": true,
       "correct_answers": [
         "б"
       ],
@@ -69995,7 +69989,6 @@
       "correct_answers_count": 1,
       "has_image": false,
       "section": "posledice",
-      "is_removed": true,
       "correct_answers": [
         "б"
       ],
