@@ -1,4 +1,4 @@
-import"./S31OeMwd.js";import{r as e}from"./CTFjmaJW.js";var t=()=>{let t=e;return{page:{subscribe:t.page.subscribe},navigating:{subscribe:t.navigating.subscribe},updated:t.updated}},n={subscribe(e){return t().page.subscribe(e)}},r=[{sectionId:`osnove_bezbednosti`,topics:[{id:`regulation`,name:{sr:`Регулисање саобраћаја`,ru:`Регулирование движения`},hint:{sr:`Саобраћај на путевима регулишу **униформисани полицијски службеници**.
+import"./S31OeMwd.js";import{r as e}from"./BeEY5hGP.js";var t=()=>{let t=e;return{page:{subscribe:t.page.subscribe},navigating:{subscribe:t.navigating.subscribe},updated:t.updated}},n={subscribe(e){return t().page.subscribe(e)}},r=[{sectionId:`osnove_bezbednosti`,topics:[{id:`regulation`,name:{sr:`Регулисање саобраћаја`,ru:`Регулирование движения`},hint:{sr:`Саобраћај на путевима регулишу **униформисани полицијски службеници**.
 Контролу врше и полицајци у цивилу.
 У зони школе — **школске патроле** + полиција.
 На радовима — **радници извођача** + полиција.`,ru:`Движение на дорогах регулируют **униформированные полицейские**.
